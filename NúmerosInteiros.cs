@@ -24,6 +24,5 @@ class Num_Inteiros {
     Console.WriteLine($"O produtório dos números digitados é:{ProdNum}");
 
 
-
   }
 }
