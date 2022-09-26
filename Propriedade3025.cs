@@ -11,7 +11,7 @@ class Propriedade3025 {
     soma = n1 + n2;
     multiplicacao = soma * soma;
   
-    //saida
+    
     if (multiplicacao == numero) {
         Console.WriteLine("Esse numero possui a mesma propriedade que 3025");
     }
