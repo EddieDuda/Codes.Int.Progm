@@ -6,7 +6,7 @@ class Autodromo {
     
     Console.WriteLine("Olá, caro(a) cliente, primeiro:");
     Console.WriteLine("Digite o comprimento da pista em metros:");
-    comprimento_pista = int.Parse(Console.ReadLine());
+    comprimento_pista = double.Parse(Console.ReadLine());
     Console.WriteLine("Agora em segundos:");
     Console.WriteLine("Digite a velocidade do primeiro carro");
     velocidade_carro1 = int.Parse(Console.ReadLine());
