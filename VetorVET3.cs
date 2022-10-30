@@ -1,3 +1,5 @@
+//Lista de Exercícios – Vetores e Matrizes
+//Questão 4: Leia dois vetores VET1 e VET2, ambos com 10 elementos cada, sendo que só devem ser aceitos valores em ordem crescente. Após gere e imprima o vetor VET3, resultado da intercalação de VET1 e VET2.
 using System;
 
 namespace VET3
