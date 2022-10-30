@@ -21,7 +21,7 @@ public class 2Vetores2Sequencias {
     for(i=0; i<10; i++){
         Console.Write("{0}  ", A[i]);
     }
-    Console.Write("\n\nA segunda sequência:\n");
+    Console.Write("\nA segunda sequência:\n");
     for(i=0; i<10; i++){
         Console.Write("{0}  ", B[i]);
     }
