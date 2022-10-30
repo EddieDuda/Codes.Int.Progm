@@ -1,3 +1,5 @@
+//Lista de Exercícios – Vetores e Matrizes
+//Questão 1: Fazer um algoritmo que leia um vetor com 8 elementos, e imprima a multiplicação dos elementos lidos.
 using System;
 
 namespace Multiplicacao8Elementos
