@@ -1,6 +1,9 @@
+//Lista de Exercícios – Vetores e Matrizes
+//Questão 3:
+
 using System;
 
-namespace ListaQ3Funcionarios
+namespace 50Funcionarios
 { 
   public class TestOneArray
   {  
